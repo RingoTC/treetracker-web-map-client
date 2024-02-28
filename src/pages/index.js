@@ -18,7 +18,7 @@ export default function Homepage({ nextExtraIsEmbed }) {
         <meta name="author" content="metatags generator" />
         <meta name="revisit-after" content="3 month" />
         <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-        <title>Treetracker by Greenstand</title>
+        <title>Treetracker by Greenstand !!!</title>
       </Head>
       <Home />
     </>
