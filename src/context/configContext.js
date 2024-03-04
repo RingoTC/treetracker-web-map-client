@@ -7,7 +7,7 @@ export const defaultConfig = {
       {
         id: 1,
         url: 'https://greenstand.org/',
-        title: 'About Greenstand',
+        title: 'About Greenstand - 123',
       },
       {
         id: 2,
