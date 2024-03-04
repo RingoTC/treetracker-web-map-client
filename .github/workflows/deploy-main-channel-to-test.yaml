@@ -6,6 +6,9 @@ on:
       git-tag:
         description: 'Branch/hash/tag'
         required: true
+  push:
+    branches:
+      - 'test/**'
 env:
   project-directory: ./
 

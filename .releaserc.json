@@ -21,9 +21,19 @@
       "channel": "next"
     },
     {
-      "name": "demo",
+      "name": "feature/**",
       "prerelease": true,
       "channel": "alpha"
+    },
+    {
+      "name": "bugfix/**",
+      "prerelease": true,
+      "channel": "beta"
+    },
+    {
+      "name": "test/**",
+      "prerelease": true,
+      "channel": "beta"
     }
   ],
   "plugins": [
